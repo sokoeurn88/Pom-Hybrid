@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="POM-HYBRID automation test">
+	
+	<listeners>
+		<listener class-name = "com.qa.ExtentReportsListener.ExtentReporterNG"/>
+	</listeners>
+	
+	
+	<test name="pom hybrid test cases">
+		<classes>
+			<class name="com.techfios.qa.test.CustomerTest"></class>
+			<!-- <class name="com.techfios.qa.test.HomePageTest"></class> -->
+			<class name="com.techfios.qa.test.LoginPageTest"></class>
+			<class name="com.techfios.qa.test.LoginPageTest"></class>
+		
+		</classes>
+	</test>
+
+</suite>

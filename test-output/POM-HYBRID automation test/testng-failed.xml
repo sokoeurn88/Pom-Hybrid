@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [POM-HYBRID automation test]">
+  <test thread-count="5" name="pom hybrid test cases(failed)">
+    <classes>
+      <class name="com.techfios.qa.test.CustomerTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="verifyClickOnAddCustomer"/>
+          <include name="verifyClickOnCustomer"/>
+        </methods>
+      </class> <!-- com.techfios.qa.test.CustomerTest -->
+    </classes>
+  </test> <!-- pom hybrid test cases(failed) -->
+</suite> <!-- Failed suite [POM-HYBRID automation test] -->

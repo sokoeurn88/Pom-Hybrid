@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="POM-HYBRID automation test" duration-ms="14012" started-at="2022-05-09T10:40:22 CDT" finished-at="2022-05-09T10:40:36 CDT">
+    <groups>
+    </groups>
+    <test name="pom hybrid test cases" duration-ms="14012" started-at="2022-05-09T10:40:22 CDT" finished-at="2022-05-09T10:40:36 CDT">
+      <class name="com.techfios.qa.test.LoginPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.techfios.qa.test.LoginPageTest@5fdba6f9]" name="setUp" is-config="true" duration-ms="2648" started-at="2022-05-09T10:40:22 CDT" finished-at="2022-05-09T10:40:25 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginPageTitleTest()[pri:1, instance:com.techfios.qa.test.LoginPageTest@5fdba6f9]" name="loginPageTitleTest" duration-ms="11" started-at="2022-05-09T10:40:25 CDT" finished-at="2022-05-09T10:40:25 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.techfios.qa.test.LoginPageTest@5fdba6f9]" name="tearDown" is-config="true" duration-ms="606" started-at="2022-05-09T10:40:25 CDT" finished-at="2022-05-09T10:40:26 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.techfios.qa.test.LoginPageTest@5fdba6f9]" name="setUp" is-config="true" duration-ms="1734" started-at="2022-05-09T10:40:26 CDT" finished-at="2022-05-09T10:40:27 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="techfiosLogoTest()[pri:2, instance:com.techfios.qa.test.LoginPageTest@5fdba6f9]" name="techfiosLogoTest" duration-ms="36" started-at="2022-05-09T10:40:27 CDT" finished-at="2022-05-09T10:40:27 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- techfiosLogoTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.techfios.qa.test.LoginPageTest@5fdba6f9]" name="tearDown" is-config="true" duration-ms="590" started-at="2022-05-09T10:40:27 CDT" finished-at="2022-05-09T10:40:28 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.techfios.qa.test.LoginPageTest@5fdba6f9]" name="setUp" is-config="true" duration-ms="1751" started-at="2022-05-09T10:40:28 CDT" finished-at="2022-05-09T10:40:30 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginTest()[pri:3, instance:com.techfios.qa.test.LoginPageTest@5fdba6f9]" name="loginTest" duration-ms="837" started-at="2022-05-09T10:40:30 CDT" finished-at="2022-05-09T10:40:30 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.techfios.qa.test.LoginPageTest@5fdba6f9]" name="tearDown" is-config="true" duration-ms="585" started-at="2022-05-09T10:40:30 CDT" finished-at="2022-05-09T10:40:31 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.techfios.qa.test.LoginPageTest -->
+      <class name="com.techfios.qa.test.HomePageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.techfios.qa.test.HomePageTest@69379752]" name="setUp" is-config="true" duration-ms="2530" started-at="2022-05-09T10:40:31 CDT" finished-at="2022-05-09T10:40:34 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyHomePageTitle()[pri:1, instance:com.techfios.qa.test.HomePageTest@69379752]" name="verifyHomePageTitle" duration-ms="6" started-at="2022-05-09T10:40:34 CDT" finished-at="2022-05-09T10:40:34 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageTitle -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.techfios.qa.test.HomePageTest@69379752]" name="setUp" is-config="true" duration-ms="2610" started-at="2022-05-09T10:40:34 CDT" finished-at="2022-05-09T10:40:36 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyDashbaordPage()[pri:2, instance:com.techfios.qa.test.HomePageTest@69379752]" name="verifyDashbaordPage" duration-ms="42" started-at="2022-05-09T10:40:36 CDT" finished-at="2022-05-09T10:40:36 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDashbaordPage -->
+      </class> <!-- com.techfios.qa.test.HomePageTest -->
+    </test> <!-- pom hybrid test cases -->
+  </suite> <!-- POM-HYBRID automation test -->
+</testng-results>
